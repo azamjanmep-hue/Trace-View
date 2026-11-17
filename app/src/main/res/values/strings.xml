@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TraceView</string>
+    <string name="empty_title">Trace anything onto paper</string>
+    <string name="empty_body">Choose a reference image. The camera shows your real paper, the drawing floats on top — trace what you see.</string>
+    <string name="empty_button">Choose reference image</string>
+    <string name="empty_tip">Tip: rest the phone on a stand or a stack of books 25–35 cm above the paper so it stays still while you draw.</string>
+
+    <string name="perm_title">Camera access needed</string>
+    <string name="perm_explain">TraceView shows your paper through the camera so you can trace over it. Nothing is recorded or saved.</string>
+    <string name="perm_blocked">Camera permission is turned off. Open Settings → Permissions → Camera → Allow, then come back.</string>
+    <string name="allow_camera">Allow camera</string>
+    <string name="open_settings">Open settings</string>
+    <string name="continue_without">Continue without camera</string>
+    <string name="camera_failed">The camera could not be started. Close other apps using it and try again.</string>
+    <string name="try_again">Try again</string>
+
+    <string name="import_title">Import reference image</string>
+    <string name="from_gallery">Gallery / Photos</string>
+    <string name="from_files">Device storage (Files)</string>
+    <string name="bad_format">Only JPG, JPEG, PNG and WEBP images are supported</string>
+    <string name="loading">Loading image…</string>
+    <string name="load_failed">Could not open that image</string>
+    <string name="preview_title">Use this reference?</string>
+    <string name="preview_info">%1$d × %2$d px</string>
+    <string name="start_tracing">Start tracing</string>
+    <string name="choose_another">Choose another</string>
+    <string name="hint_gestures">Drag to move · pinch to zoom &amp; rotate · lock when ready</string>
+
+    <string name="locked">Image locked — trace away</string>
+    <string name="unlocked">Image unlocked</string>
+    <string name="fitted">Fitted to screen</string>
+    <string name="reset_done">Position reset</string>
+    <string name="grid_off">Grid off</string>
+    <string name="grid_large">Grid: large squares</string>
+    <string name="grid_small">Grid: small squares</string>
+    <string name="no_flash">This camera has no flashlight</string>
+    <string name="opacity">Opacity</string>
+
+    <string name="cd_import">Import image</string>
+    <string name="cd_switch">Switch camera</string>
+    <string name="cd_flash">Flashlight</string>
+    <string name="cd_grid">Grid overlay</string>
+    <string name="cd_fullscreen">Full screen</string>
+    <string name="cd_hide">Hide controls</string>
+    <string name="cd_show">Show controls</string>
+    <string name="cd_zoom_in">Zoom in</string>
+    <string name="cd_zoom_out">Zoom out</string>
+    <string name="cd_rot_left">Rotate left</string>
+    <string name="cd_rot_right">Rotate right</string>
+    <string name="cd_flip_h">Flip horizontally</string>
+    <string name="cd_flip_v">Flip vertically</string>
+    <string name="cd_move">Move image</string>
+    <string name="cd_fit">Fit to paper</string>
+    <string name="cd_reset">Reset position</string>
+    <string name="cd_lock">Lock or unlock image</string>
+    <string name="cd_up">Move up</string>
+    <string name="cd_down">Move down</string>
+    <string name="cd_left">Move left</string>
+    <string name="cd_right">Move right</string>
+</resources>
